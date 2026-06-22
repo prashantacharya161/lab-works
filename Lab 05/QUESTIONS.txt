@@ -1,0 +1,26 @@
+/*
+Theory
+Operator overloading:
+QUESTION NUMBER 1.  Overload "+" amd '-' operator to find the sum and difference of two complex number using: 
+1. member function
+2. friend function
+
+conclusion for calling in member function:
+eg: c3 = c1 + c2
+this is equivalent to c3 = c1.sum(c2)
+Hence, only one parameter should be passed into the function
+Conclusion for calling in friend function:
+egL c3 = c1+c2
+this is equivalent to c3 = sum(c1 + c2), 
+here, two parameters should be passed
+*/
+
+QUESTION NUMBER 2: WAP to overload '*' operator to find product of two matrixes of order m*n, and n*q
+
+QUESTION NUMBER 3: distance --> feet and inch
+object d1, d2
+compare.  <, >, =. 
+if d1 is less, use unary operator d1++
+if both equal, print any
+if d2 is less, use unary operator d2++ or d1--
+
