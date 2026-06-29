@@ -1,0 +1,7 @@
+/*
+1. wap to convert basic data type float to user def data type weight and vice versa
+2. Create a class named celcius and farhenhite that represent temperature in celcius and farhenhite respectively. 
+	a. Do source class conversion to convert data type degree celcius to degree fahrenheit
+	b. Do destination ""   ""  ""   '"" 
+	*/
+
